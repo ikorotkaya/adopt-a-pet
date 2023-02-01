@@ -1,3 +1,7 @@
+Initial commit is the initial state of the project from Codecademy "Full-Stack Engineer" Path.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
