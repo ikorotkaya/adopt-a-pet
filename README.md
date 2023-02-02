@@ -1,6 +1,6 @@
 Initial commit is the initial state of the project from Codecademy "Full-Stack Engineer" Path.
 
-
+Build a pet adoption website that allows users to view all the adoptable pets of a particular species and view the profiles of specific adoptable pets.
 
 # Getting Started with Create React App
 
